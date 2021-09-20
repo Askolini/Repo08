@@ -18,3 +18,8 @@ function function2() {
 
 function1();
 function2();
+
+module.exports = {
+    function1,
+    function2
+};
